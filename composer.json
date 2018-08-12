@@ -1,5 +1,8 @@
 {
-  "name":"game",
   "version":"1",
-  "type": "project"
+  "type": "project",
+  "require": {
+	  "php":">=5.6.0",
+	  "zhukov/game" : "dev"
+  }
 }
