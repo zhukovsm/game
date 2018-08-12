@@ -1,10 +1,5 @@
 {
-    "repositories": [
-	  {
-		"type": "git",
-		"url":"https://github.com/zhukovsm/game"
-	   }
-    ],
+    "name": "zhukov/game",
     "require": {
 	  "php":">=5.6.0",
 	  "zhukov/game" : "dev"
